@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CryogenicPowerGeneratorII.label>制冷发电机II</CryogenicPowerGeneratorII.label>
+  <CryogenicPowerGeneratorII.description>通过压缩空气并将其冷冻成液体，然后控制其蒸发和膨胀来产生能量，周围必须保持干燥。可释放大量冷空气且无需燃料。是I代的两倍强度。</CryogenicPowerGeneratorII.description>
+
+
+</LanguageData>
