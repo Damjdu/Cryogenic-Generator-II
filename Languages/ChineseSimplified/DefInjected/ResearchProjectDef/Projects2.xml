@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryogenic power II -->
+  <CryoPowerII.label>制冷发电机II</CryoPowerII.label>
+  <!-- EN: Build cryogenic generators, which is 2x stronger then the cryogenic generator I, on top of any Ground. -->
+  <CryoPowerII.description>解锁可在任意地形上建造的制冷发电机II，其效率为I代的两倍。</CryoPowerII.description>
+  
+</LanguageData>
